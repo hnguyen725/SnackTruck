@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">SnackTruck</string>
+    <string name="app_name">Snack Truck</string>
+    <string name="add">Add</string>
+    <string name="veggie">Veggie</string>
+    <string name="non_veggie">Non-veggie</string>
+    <string name="submit_order">Submit order</string>
+    <string name="hint_menu_item_name">Menu item name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
