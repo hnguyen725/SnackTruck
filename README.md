@@ -4,6 +4,7 @@ This is a simple food truck ordering application that allows user to perform the
 3.	Add new menu items to the menu list.
 
 
+
 Currently, the app does not distinguish between a custom or an operator. Below is one of the approaches to solve this problem:
 -	By default, the app will not display an ‘Add’ button.
 -	We can add a ‘Log in as operator’ option on the menu of the top action bar.
@@ -13,6 +14,7 @@ Currently, the app does not distinguish between a custom or an operator. Below i
     - Add for adding a menu item.
     - Log out to log the operator out of the session and allow other customers to use the app.
 -	Pressing on the ‘Add’ option will allow the operator to add a new menu item like current functionality.
+
 
 
 Implementation and libraries:
